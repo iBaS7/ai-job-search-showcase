@@ -1,10 +1,16 @@
 # Evidence-based job applications with Claude Code
 
+## About me
+
+I am a procurement and supply-chain professional (PhD in Business Administration, CPPM) based in Istanbul, with 25+ years across sourcing, ERP and digital transformation. I use Claude Code to run my own job search as a systematic, evidence-checked process, and I keep a human decision at every step that matters.
+
 How I run a job search as a repeatable, checked process: research, fit evaluation, CV and cover letter tailored per posting, and verification, with me approving and submitting every application myself.
 
 I use the open-source [AI Job Search](https://github.com/ai-job-search-dev/ai-job-search) framework (MIT, see [NOTICE.md](NOTICE.md)) with Claude Code. This repository is not that framework and contains no personal data. It shows the method and the rules I added on top.
 
 ## The workflow
+
+![Workflow: posting, hard filters, fit evaluation, evidence map, tailored documents, mechanical checks, human review, manual submit](assets/workflow.svg)
 
 1. **Evaluate fit first.** Each posting is scored against my profile before any document is written. Hard filters (location rules, visa and eligibility wording, mandatory language) run before scoring.
 2. **Tailor from evidence.** Every CV bullet and cover-letter claim must trace to a documented experience in my own source documents. No invented skills, tools or numbers. If the source gives no figure, the document gives none.
@@ -18,6 +24,8 @@ I use the open-source [AI Job Search](https://github.com/ai-job-search-dev/ai-jo
 - **Never name a tool I did not use.** A claim such as "built with X" appears only if I confirmed it.
 
 ## Worked example
+
+A sample of the report the workflow produces is in [examples/sample-fit-report.md](examples/sample-fit-report.md) (illustrative, fictional data).
 
 [examples/evidence-mapping.md](examples/evidence-mapping.md) walks through one fictional posting: requirements, the evidence found, the resulting bullets, and what is deliberately left out.
 

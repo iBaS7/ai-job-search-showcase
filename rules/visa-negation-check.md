@@ -12,4 +12,4 @@
 
 **Procedure.** Read the full sentence and its neighbours. Quote the sentence relied on in the fit report. Never summarise a refusal as support.
 
-A generic version of this rule was prepared as a proposal for the upstream project's Eligibility Gate.
+I drafted a generic version of this rule as a proposal for the upstream project's Eligibility Gate.

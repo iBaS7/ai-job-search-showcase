@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" width="900" height="250" role="img" aria-labelledby="t d">
+<title id="t">Job application workflow</title>
+<desc id="d">Posting, hard filters, fit evaluation, evidence mapping, tailored documents, mechanical checks, human review and manual submission.</desc>
+<style>
+rect{fill:#f6f8fa;stroke:#57606a;stroke-width:1.5}
+rect.h{fill:#ddf4ff;stroke:#0969da}
+text{font:600 13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#24292f;text-anchor:middle}
+text.s{font-weight:400;font-size:11px;fill:#57606a}
+path{stroke:#57606a;stroke-width:1.5;fill:none}
+</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" style="fill:#57606a;stroke:none"/></marker></defs>
+<g>
+<rect x="10" y="30" width="190" height="70" rx="8"/><text x="105" y="60">1. Posting</text><text class="s" x="105" y="80">text or URL, integrity checked</text>
+<rect x="255" y="30" width="190" height="70" rx="8"/><text x="350" y="60">2. Hard filters</text><text class="s" x="350" y="80">location, visa wording, language</text>
+<rect x="500" y="30" width="190" height="70" rx="8"/><text x="595" y="60">3. Fit evaluation</text><text class="s" x="595" y="80">skills, experience, culture</text>
+<rect x="745" y="30" width="145" height="70" rx="8"/><text x="817" y="60">4. Evidence map</text><text class="s" x="817" y="80">claim to source</text>
+<rect x="745" y="150" width="145" height="70" rx="8"/><text x="817" y="180">5. Tailored</text><text class="s" x="817" y="200">CV and cover letter</text>
+<rect x="500" y="150" width="190" height="70" rx="8"/><text x="595" y="180">6. Mechanical checks</text><text class="s" x="595" y="200">pages, text layer, headings</text>
+<rect class="h" x="255" y="150" width="190" height="70" rx="8"/><text x="350" y="180">7. Human review</text><text class="s" x="350" y="200">I verify every claim</text>
+<rect class="h" x="10" y="150" width="190" height="70" rx="8"/><text x="105" y="180">8. Manual submit</text><text class="s" x="105" y="200">no automated sending</text>
+</g>
+<path d="M200 65H253" marker-end="url(#a)"/><path d="M445 65H498" marker-end="url(#a)"/><path d="M690 65H743" marker-end="url(#a)"/>
+<path d="M817 100V148" marker-end="url(#a)"/><path d="M745 185H692" marker-end="url(#a)"/><path d="M500 185H447" marker-end="url(#a)"/><path d="M255 185H202" marker-end="url(#a)"/>
+</svg>
