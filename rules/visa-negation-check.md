@@ -12,4 +12,4 @@
 
 **Procedure.** Read the full sentence and its neighbours. Quote the sentence relied on in the fit report. Never summarise a refusal as support.
 
-I drafted a generic version of this rule as a proposal for the upstream project's Eligibility Gate.
+I proposed a generic version of this rule to the upstream project's Eligibility Gate: [discussion #894](https://github.com/ai-job-search-dev/ai-job-search/discussions/894) and [pull request #895](https://github.com/ai-job-search-dev/ai-job-search/pull/895) (open at the time of writing; the maintainers decide whether it fits the project).
